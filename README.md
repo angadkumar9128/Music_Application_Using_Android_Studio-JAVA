@@ -1,0 +1,2 @@
+# Music_Application_ Using_Android_Studio-JAVA
+ The Music Application using Android Studio and Java is a robust and user-friendly mobile app designed for seamless music playback. It offers features like playlist creation, shuffle and repeat modes, and an intuitive interface. Users can browse and play songs, manage their music library, and enjoy a smooth and immersive listening experience. Ideal for music enthusiasts seeking a personalized music experience.
